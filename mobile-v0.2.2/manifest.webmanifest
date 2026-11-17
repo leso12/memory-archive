@@ -1,9 +1,9 @@
 {
   "name":"추억보관함",
   "short_name":"추억보관함",
-  "id":"/memory-archive/",
-  "start_url":"/memory-archive/",
-  "scope":"/memory-archive/",
+  "id":"/memory-archive/mobile-v0.2.2/",
+  "start_url":"/memory-archive/mobile-v0.2.2/",
+  "scope":"/memory-archive/mobile-v0.2.2/",
   "display":"standalone",
   "background_color":"#fff8fb",
   "theme_color":"#fff8fb",
